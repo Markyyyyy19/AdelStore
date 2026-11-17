@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: adelstore
+    runtime: node
+    plan: free
+    region: singapore
+    buildCommand: npm install && npm run build
+    startCommand: npm run start -- -p $PORT
+    envVars:
+      - key: NODE_VERSION
+        value: 20.18.0
+      - key: USE_JSON_DB
+        value: "true"

@@ -1,0 +1,323 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lucky Me Pancit Canton Original 55g",
+      "category": "Noodles",
+      "price": 22,
+      "cost": 18,
+      "stock": 120,
+      "unit": "pcs",
+      "emoji": "🍜",
+      "description": "Best-seller pang merienda"
+    },
+    {
+      "id": 2,
+      "name": "Lucky Me Beef 55g",
+      "category": "Noodles",
+      "price": 22,
+      "cost": 18,
+      "stock": 100,
+      "unit": "pcs",
+      "emoji": "🍜",
+      "description": "Beef flavor"
+    },
+    {
+      "id": 3,
+      "name": "Century Tuna Flakes 155g",
+      "category": "Canned Goods",
+      "price": 38,
+      "cost": 32,
+      "stock": 80,
+      "unit": "can",
+      "emoji": "🐟",
+      "description": "Pang ulam"
+    },
+    {
+      "id": 4,
+      "name": "555 Sardines Green 155g",
+      "category": "Canned Goods",
+      "price": 28,
+      "cost": 23,
+      "stock": 120,
+      "unit": "can",
+      "emoji": "🐟",
+      "description": "Classic sardinas"
+    },
+    {
+      "id": 5,
+      "name": "Argentina Corned Beef 150g",
+      "category": "Canned Goods",
+      "price": 52,
+      "cost": 44,
+      "stock": 60,
+      "unit": "can",
+      "emoji": "🥫",
+      "description": "Pang almusal"
+    },
+    {
+      "id": 6,
+      "name": "Mega Sardines Red 155g",
+      "category": "Canned Goods",
+      "price": 27,
+      "cost": 22,
+      "stock": 110,
+      "unit": "can",
+      "emoji": "🐟",
+      "description": ""
+    },
+    {
+      "id": 7,
+      "name": "SkyFlakes 24s pack",
+      "category": "Snacks",
+      "price": 72,
+      "cost": 62,
+      "stock": 50,
+      "unit": "pack",
+      "emoji": "🍪",
+      "description": "Pang tindahan pack"
+    },
+    {
+      "id": 8,
+      "name": "Fudgee Barr Chocolate",
+      "category": "Snacks",
+      "price": 9,
+      "cost": 7,
+      "stock": 200,
+      "unit": "pcs",
+      "emoji": "🍫",
+      "description": "Pambata best-seller"
+    },
+    {
+      "id": 9,
+      "name": "Piattos Cheese 40g",
+      "category": "Snacks",
+      "price": 22,
+      "cost": 18,
+      "stock": 90,
+      "unit": "pcs",
+      "emoji": "🥔",
+      "description": ""
+    },
+    {
+      "id": 10,
+      "name": "Nova Country Cheddar",
+      "category": "Snacks",
+      "price": 22,
+      "cost": 18,
+      "stock": 85,
+      "unit": "pcs",
+      "emoji": "🥔",
+      "description": ""
+    },
+    {
+      "id": 11,
+      "name": "Coke Mismo 300ml",
+      "category": "Drinks",
+      "price": 25,
+      "cost": 20,
+      "stock": 120,
+      "unit": "bottle",
+      "emoji": "🥤",
+      "description": "Bugnaw available"
+    },
+    {
+      "id": 12,
+      "name": "Sprite Mismo 300ml",
+      "category": "Drinks",
+      "price": 25,
+      "cost": 20,
+      "stock": 100,
+      "unit": "bottle",
+      "emoji": "🥤",
+      "description": ""
+    },
+    {
+      "id": 13,
+      "name": "Royal Mismo 300ml",
+      "category": "Drinks",
+      "price": 25,
+      "cost": 20,
+      "stock": 90,
+      "unit": "bottle",
+      "emoji": "🥤",
+      "description": ""
+    },
+    {
+      "id": 14,
+      "name": "C2 Solo Apple 355ml",
+      "category": "Drinks",
+      "price": 28,
+      "cost": 23,
+      "stock": 70,
+      "unit": "bottle",
+      "emoji": "🧃",
+      "description": ""
+    },
+    {
+      "id": 15,
+      "name": "Bear Brand Swak 33g",
+      "category": "Milk & Coffee",
+      "price": 14,
+      "cost": 11,
+      "stock": 150,
+      "unit": "sachet",
+      "emoji": "🥛",
+      "description": ""
+    },
+    {
+      "id": 16,
+      "name": "Nescafe Original Twin 48g",
+      "category": "Milk & Coffee",
+      "price": 28,
+      "cost": 24,
+      "stock": 100,
+      "unit": "sachet",
+      "emoji": "☕",
+      "description": "Twin pack"
+    },
+    {
+      "id": 17,
+      "name": "Kopiko Brown 30g",
+      "category": "Milk & Coffee",
+      "price": 14,
+      "cost": 11,
+      "stock": 120,
+      "unit": "sachet",
+      "emoji": "☕",
+      "description": ""
+    },
+    {
+      "id": 18,
+      "name": "Milo Sachet 24g",
+      "category": "Milk & Coffee",
+      "price": 14,
+      "cost": 11,
+      "stock": 110,
+      "unit": "sachet",
+      "emoji": "🍫",
+      "description": ""
+    },
+    {
+      "id": 19,
+      "name": "Surf Powder Red 65g",
+      "category": "Household",
+      "price": 12,
+      "cost": 9,
+      "stock": 130,
+      "unit": "sachet",
+      "emoji": "🧺",
+      "description": "Panglaba"
+    },
+    {
+      "id": 20,
+      "name": "Ariel Powder Green 66g",
+      "category": "Household",
+      "price": 14,
+      "cost": 11,
+      "stock": 110,
+      "unit": "sachet",
+      "emoji": "🧺",
+      "description": ""
+    },
+    {
+      "id": 21,
+      "name": "Safeguard White 115g",
+      "category": "Household",
+      "price": 42,
+      "cost": 35,
+      "stock": 60,
+      "unit": "pcs",
+      "emoji": "🧼",
+      "description": ""
+    },
+    {
+      "id": 22,
+      "name": "Colgate MaxFresh 95g",
+      "category": "Household",
+      "price": 95,
+      "cost": 80,
+      "stock": 40,
+      "unit": "tube",
+      "emoji": "🪥",
+      "description": ""
+    },
+    {
+      "id": 23,
+      "name": "Shampoo Palmolive Sachet 12ml",
+      "category": "Household",
+      "price": 9,
+      "cost": 7,
+      "stock": 180,
+      "unit": "sachet",
+      "emoji": "🧴",
+      "description": "Assorted"
+    },
+    {
+      "id": 24,
+      "name": "Bigas Regular 1kg",
+      "category": "Rice & Essentials",
+      "price": 52,
+      "cost": 46,
+      "stock": 200,
+      "unit": "kg",
+      "emoji": "🍚",
+      "description": "Humay pang adlaw-adlaw"
+    },
+    {
+      "id": 25,
+      "name": "Itlog Medium (tray 30pcs)",
+      "category": "Rice & Essentials",
+      "price": 240,
+      "cost": 210,
+      "stock": 15,
+      "unit": "tray",
+      "emoji": "🥚",
+      "description": "Farm fresh"
+    },
+    {
+      "id": 26,
+      "name": "Mantika Minola 1L",
+      "category": "Rice & Essentials",
+      "price": 98,
+      "cost": 85,
+      "stock": 30,
+      "unit": "bottle",
+      "emoji": "🫗",
+      "description": "Pangluto"
+    },
+    {
+      "id": 27,
+      "name": "Asukal White 1/4kg",
+      "category": "Rice & Essentials",
+      "price": 28,
+      "cost": 24,
+      "stock": 80,
+      "unit": "pack",
+      "emoji": "🍬",
+      "description": ""
+    },
+    {
+      "id": 28,
+      "name": "Asin 250g",
+      "category": "Rice & Essentials",
+      "price": 12,
+      "cost": 8,
+      "stock": 90,
+      "unit": "pack",
+      "emoji": "🧂",
+      "description": ""
+    }
+  ],
+  "orders": [],
+  "suki": [],
+  "settings": {
+    "store_name": "Adel'Store",
+    "gcash_name": "Adel S.",
+    "gcash_number": "0951-XXX-XXXX",
+    "address": "Purok 5, Barangay Center (tapad sa chapel)",
+    "hours": "Open daily 6AM – 10PM"
+  },
+  "seqProduct": 29,
+  "seqOrder": 1
+}
